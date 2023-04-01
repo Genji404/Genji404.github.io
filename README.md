@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<body>
+<body>
 		<h1>The Brown Bear</h1>
 		<div id="introduction">
 		  <h2>About Brown Bears</h2>
